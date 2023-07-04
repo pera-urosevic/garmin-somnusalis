@@ -1,0 +1,12 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+    <bitmap id="Heartrate" filename="heartrate.png" dithering="none" />
+    <bitmap id="NotificationsNone" filename="notifications-none.png" dithering="none" />
+    <bitmap id="NotificationsSome" filename="notifications-some.png" dithering="none" />
+    <bitmap id="Battery100" filename="battery-100.png" dithering="none" />
+    <bitmap id="Battery75" filename="battery-075.png" dithering="none" />
+    <bitmap id="Battery50" filename="battery-050.png" dithering="none" />
+    <bitmap id="Battery25" filename="battery-025.png" dithering="none" />
+    <bitmap id="Battery0" filename="battery-000.png" dithering="none" />
+    <bitmap id="Steps" filename="steps.png" dithering="none" />
+</drawables>
